@@ -10,7 +10,6 @@ We are passionate about building the next generation of blockchain infrastructur
 ## Our Work
 
 * KAGOME is a C++ Polkadot Host implementation that is currently live on Westend (Polkadot testnetwork).
-* KAGOME joined Kusama 1000 validators programme.
 * We maintain [cpp-libp2p](https://libp2p/cpp-libp2p) implementation.
 
 ## Our Goals
@@ -18,3 +17,8 @@ We are passionate about building the next generation of blockchain infrastructur
 * Build the next generation of blockchain infrastructure.
 * Make KAGOME one of major Polkadot clients.
 * Empower developers to build decentralized applications.
+
+## Kusama validator
+
+KAGOME joined Kusama 1000 validators programme that has the purpose of decentralizing validators set. 
+Consider nominating our validator to support clients diversity in Kusama: GZ777psWniwVo6gJV5T1ywnEy9UsQZEehWW5zu76A3Cco3z (Kagome Kusama validator)
